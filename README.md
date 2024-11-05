@@ -16,7 +16,7 @@
 - Try creating a dialog box, parsing it, and initializing an `int` in a single line
 - You should have only one semicolon (;)
 ## Exercise 2
-- Create a new project and add the Input02.javafile to the project
+- Create a new project and add the `Input02.java` file to the project
 - Experiment with the code and try to change…
   - The message title
   - The message
