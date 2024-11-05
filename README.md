@@ -1,4 +1,4 @@
-﻿# JavaAPCSA-3-5-Keyboard-Input
+﻿# U3S4 Keyboard Input
 
 ## Exercise 1
 ### Part 1
