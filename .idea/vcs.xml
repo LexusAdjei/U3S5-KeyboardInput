@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/U3S5-KeyboardInput" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
   </component>
 </project>

@@ -10,7 +10,7 @@ public class Input02 {
 
         
         String input1 = (String)JOptionPane.showInputDialog(null,
-                "Is this a question?",
+                "Best NASCAR Driver?",
                 "Dialog Title",
                 2,
                 null,
@@ -20,12 +20,13 @@ public class Input02 {
         
         String[] acceptableValues = {"Choice 1", "Choice 2", "Choice 3"};
         String input2 = (String)JOptionPane.showInputDialog(null,
-                "Is this a question?",
+                "Best Formula Driver?",
                 "Dialog Title",
                 2,
                 null,
                 acceptableValues,
                 acceptableValues[1]);
-                
+        System.out.println(input1);
+        System.out.println(input2);
     }
 }
