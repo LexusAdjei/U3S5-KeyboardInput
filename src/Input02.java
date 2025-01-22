@@ -18,7 +18,7 @@ public class Input02 {
                 "Type something here.");
         
         
-        String[] acceptableValues = {"Choice 1", "Choice 2", "Choice 3"};
+        String[] acceptableValues = {"Michael Schummacer", "Lewis Hamliton", "AJ Foyt"};
         String input2 = (String)JOptionPane.showInputDialog(null,
                 "Best Formula Driver?",
                 "Dialog Title",
