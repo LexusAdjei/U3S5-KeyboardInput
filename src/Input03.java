@@ -8,7 +8,7 @@ class Input03 {
         Scanner sc = new Scanner(System.in);
         //Find and print the sum of three integers entered by the user
 
-      System.out.println("Enter Intergers:");
+      System.out.println("Enter Integers:");
       int sum1 = sc.nextInt();
       int sum2 = sc.nextInt();
       int sum3 = sc.nextInt();
